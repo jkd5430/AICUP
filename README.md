@@ -69,6 +69,8 @@ pip install cython_bbox
 pip install faiss-cpu
 pip install faiss-gpu
 ```
+## Google Colab Link
+
 
 ## Download Weight
 Download [Reid weight](https://drive.google.com/file/d/1Mx9crOXtSsPFqL-0vra3l_Cdaw3a7zKm/view?usp=drive_link).
