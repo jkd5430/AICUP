@@ -72,8 +72,11 @@ pip install faiss-gpu
 
 ## Download Weight
 Download [Reid weight](https://drive.google.com/file/d/1Mx9crOXtSsPFqL-0vra3l_Cdaw3a7zKm/view?usp=drive_link).
+
 Download VERI-Wild Baseline[Reid MODEL.WEIGHTS](https://github.com/JDAI-CV/fast-reid/blob/master/MODEL_ZOO.md).
+
 Download [yolo weight](https://drive.google.com/file/d/1MB6ze3icnpGHje7PAVynQaUA27061wkJ/view?usp=drive_link).
+
 
 
 
@@ -387,6 +390,7 @@ In addition, python-based motion estimation techniques are available and can be 
 }
 ```
 比賽資訊:[https://tbrain.trendmicro.com.tw/Competitions/Details/33](https://tbrain.trendmicro.com.tw/Competitions/Details/33)
+
 參考資料來源:[https://github.com/ricky-696/AICUP_Baseline_BoT-SORT](https://github.com/ricky-696/AICUP_Baseline_BoT-SORT)
 
 ## Acknowledgement
