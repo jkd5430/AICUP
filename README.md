@@ -70,6 +70,7 @@ pip install faiss-cpu
 pip install faiss-gpu
 ```
 ## Google Colab Link
+Colab [link](https://colab.research.google.com/drive/1jne6QHdtYP944J0dI7PxHBTQGH8IYbFo?usp=sharing).
 
 
 ## Download Weight
